@@ -1,0 +1,19 @@
+{
+  "name": "@ablegroup/requestid",
+  "version": "1.0.0",
+  "description": "Utility to get IDs for each request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecm-cc/packages-requestid.git"
+  },
+  "author": "Martin Testrot",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ecm-cc/packages-requestid/issues"
+  },
+  "homepage": "https://github.com/ecm-cc/packages-requestid#readme"
+}
