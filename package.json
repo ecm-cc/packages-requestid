@@ -1,6 +1,6 @@
 {
   "name": "@ablegroup/requestid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to get IDs for each request",
   "main": "index.js",
   "scripts": {
